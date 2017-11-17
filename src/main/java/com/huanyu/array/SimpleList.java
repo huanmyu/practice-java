@@ -1,5 +1,7 @@
 package com.huanyu.array;
 
+import java.util.Arrays;
+
 public class SimpleList<T> {
     private Object[] elementData;
     private int size = 0;
@@ -63,5 +65,13 @@ public class SimpleList<T> {
             int newCap = elementData.length / 2;
             elementData = new Object[newCap];
         }
+    }
+
+    @Override
+    public String toString() {
+        return "SimpleList{" +
+                "elementData=" + Arrays.toString(elementData) +
+                ", size=" + size +
+                '}';
     }
 }
