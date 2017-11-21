@@ -1,7 +1,7 @@
 package com.huanyu.concurrent.volatiles;
 
 public class Atomic {
-    // 自增操作不是原子性操作，而且volatile也无法保证对变量的任何操作都是原子性的。
+//    自增操作不是原子性操作，而且volatile也无法保证对变量的任何操作都是原子性的。
 //    作者：半兽人
 //    链接：http://www.orchome.com/138
 //    来源：OrcHome
