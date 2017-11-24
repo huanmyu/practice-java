@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7f2542c-e986-45e6-9a67-37e282f60c20" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/huanyu/datetime/ExampleDateTime.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="f05ba6d4-9104-4e79-90b3-8de0daab2972" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/practice-java.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/practice-java_main.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/practice-java_test.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/huanyu/initialization/A.java" afterPath="$PROJECT_DIR$/src/main/java/com/huanyu/initialization/A.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/huanyu/initialization/B.java" afterPath="$PROJECT_DIR$/src/main/java/com/huanyu/initialization/B.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/huanyu/main.java" afterPath="$PROJECT_DIR$/src/main/java/com/huanyu/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/huanyu/array/SimpleList.java" afterPath="$PROJECT_DIR$/src/main/java/com/huanyu/array/SimpleList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/huanyu/array/SimpleListTests.java" afterPath="$PROJECT_DIR$/src/test/java/com/huanyu/array/SimpleListTests.java" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$">
-      <ProjectState />
-    </projectState>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -41,9 +39,11 @@
       <file leaf-file-name="SimpleList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/huanyu/array/SimpleList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="255">
               <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1511512775830" expanded="true" signature="2637:2643" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,21 +74,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="405">
+              <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/huanyu/main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -458,27 +468,7 @@
       <projects_view />
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/src/test/java/com/huanyu/array/SimpleListTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huanyu/array/SimpleList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huanyu/serviceprovider/CharCodec.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huanyu/serviceprovider/impl/StandardCodec.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/META-INF/services/com.huanyu.serviceprovider.CharCodec" />
-        <option value="$PROJECT_DIR$/src/test/resources/META-INF/services/com.huanyu.serviceprovider.CharCodec" />
-        <option value="$PROJECT_DIR$/src/test/java/com/huanyu/serviceprovider/CharCodecTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huanyu/concurrent/volatiles/Atomic.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huanyu/datetime/ExampleDateTime.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huanyu/initialization/A.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huanyu/initialization/B.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/huanyu/main.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds">
     <option name="x" value="260" />
     <option name="y" value="40" />
     <option name="width" value="1400" />
@@ -695,80 +685,11 @@
               <item name="practice-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="practice-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huanyu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huanyu" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huanyu" type="462c0819:PsiDirectoryNode" />
-              <item name="datetime" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huanyu" type="462c0819:PsiDirectoryNode" />
-              <item name="initialization" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="huanyu" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceprovider" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -991,40 +912,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="b7f2542c-e986-45e6-9a67-37e282f60c20" name="Default" comment="" />
-      <created>1510911114944</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1510911114944</updated>
-    </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="CharCodecTests - 2017.11.21 at 16h 59m 23s.xml">
-      <configuration name="CharCodecTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharCodecTests_getEncoderTest - 2017.11.21 at 16h 56m 49s.xml">
-      <configuration name="CharCodecTests.getEncoderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharCodecTests_getEncoderTest - 2017.11.21 at 16h 57m 21s.xml">
-      <configuration name="CharCodecTests.getEncoderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharCodecTests_getEncoderTest - 2017.11.21 at 16h 57m 48s.xml">
-      <configuration name="CharCodecTests.getEncoderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharCodecTests_getEncoderTest - 2017.11.21 at 16h 58m 06s.xml">
-      <configuration name="CharCodecTests.getEncoderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharCodecTests_getEncoderTest - 2017.11.21 at 16h 58m 27s.xml">
-      <configuration name="CharCodecTests.getEncoderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharCodecTests_getEncoderTest - 2017.11.21 at 16h 59m 00s.xml">
-      <configuration name="CharCodecTests.getEncoderTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SimpleListTests_sizeTest - 2017.11.17 at 17h 52m 19s.xml">
-      <configuration name="SimpleListTests.sizeTest" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="40" width="1922" height="1053" extended-state="7" />
@@ -1252,17 +1140,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/huanyu/array/SimpleList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="255">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1511512775830" expanded="true" signature="2637:2643" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1296,93 +1178,29 @@
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>practice-java_test|practice-java</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Gradle: junit:junit:4.12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6210">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="9" lean-forward="false" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
