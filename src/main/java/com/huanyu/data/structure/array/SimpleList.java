@@ -1,4 +1,4 @@
-package com.huanyu.array;
+package com.huanyu.data.structure.array;
 
 import java.util.Arrays;
 
